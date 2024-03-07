@@ -1,1 +1,2 @@
 Hello everyone, Welcome to gitHub Tutorial.
+In next video we will learn git add, commit, push commands
